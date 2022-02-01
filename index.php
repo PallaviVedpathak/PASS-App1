@@ -75,7 +75,7 @@
         <header>
             <div class="header-content">
                 <div class="header-content-inner">
-                    <h1>PLACEMENT MANAGEMENT SYSTEM</h1>
+                    <h1>PLACEMENT ASSISTANCE SYSTEM</h1>
                     <hr>
                     <p>We are here to Build your Skills and Career with our Driven Passion and Reality.</br>Click Below to Get Our Current Drive
                         Details</p>
